@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<box id="${1:text}" name="${2:TEXTES}">
+	<template id="1" name="Tout">
+		<tab id="main" name="Textes">
+			$0
+		</tab>
+	</template>
+</box>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>boxo</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.xml</scope>
+</snippet>
+

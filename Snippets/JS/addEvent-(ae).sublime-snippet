@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[addEvent('${1:click}', function(e){
+    ${0:// body...}
+})]]></content>
+    <tabTrigger>ae</tabTrigger>
+    <scope>source.js</scope>
+    <description>Variable</description>
+</snippet>

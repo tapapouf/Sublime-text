@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[getAttribute(${0:value})]]></content>
+    <tabTrigger>gat</tabTrigger>
+    <scope>source.php</scope>
+    <description>DOMNode::getAttribute</description>
+</snippet>
+

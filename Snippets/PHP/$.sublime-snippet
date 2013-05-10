@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$${1:name} = ${0:value};]]></content>
+    <tabTrigger>$</tabTrigger>
+    <scope>source.php</scope>
+    <description>PHP VARIABLE</description>
+</snippet>

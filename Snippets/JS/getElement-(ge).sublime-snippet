@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getElement(${0:value})]]></content>
+    <tabTrigger>ge</tabTrigger>
+    <scope>source.js</scope>
+    <description>Variable</description>
+</snippet>

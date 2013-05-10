@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[var \$${1:el} = \$('${2:nodeId}');
+if ( \$${1:el} ) {
+	${0:// body...}
+}]]></content>
+    <tabTrigger>ifd</tabTrigger>
+    <scope>source.js</scope>
+    <description>Function</description>
+</snippet>

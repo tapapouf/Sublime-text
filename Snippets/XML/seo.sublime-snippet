@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<box id="seo" name="SEO">
+	<template>
+		<tab id="main" name="Textes">
+			<input code="seotitre" type="line" name="Titre"/>
+			<input code="seokw" type="line" name="Mots-clés"/>
+			<input code="seodesc" type="line" name="Description"/>
+		</tab>
+	</template>
+</box>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>seo</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.xml</scope>
+</snippet>
+
